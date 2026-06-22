@@ -2,7 +2,7 @@
 
 ## Projektbeskrivning
 
-Misinformation Monitor är en data-driven applikation som använder maskininlärning för att identifiera potentiell desinformation i nyhetsartiklar. Projektet utvecklades inom ramen för kursen TIG326 och utgår från grand challenge-området **Misinformation**.
+Misinformation Monitor är en data-driven applikation som använder maskininlärning för att identifiera potentiell desinformation i nyhetsartiklar. Projektet utgår från grand challenge-området **Misinformation**.
 
 ## Syfte
 
@@ -56,6 +56,3 @@ http://localhost:8501
 
 Modellen uppnådde en accuracy på **98,64 %** på testdatan och kunde med hög träffsäkerhet skilja mellan falska och riktiga nyhetsartiklar.
 
-## Författare
-
-Grupprojekt inom kursen TIG326 – Design Thinking och Data-driven Innovation.
